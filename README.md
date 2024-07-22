@@ -36,12 +36,6 @@
 <img src="https://repository-images.githubusercontent.com/616548600/ae21fe11-2ab9-4556-bd6a-0566fc4474a2" alt="fast.ai" width="40" height="40"/>
 
 </p>
-
-<h3 align="center">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamshid-ds&hide_progress=true&theme=highcontrast" alt=jamshid-ds />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamshid-ds&show_icons=true&locale=en&theme=highcontrast" alt="jamshid-ds" /></p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/jamshid-ds">
